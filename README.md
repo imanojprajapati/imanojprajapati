@@ -1,13 +1,10 @@
-### Hi there 👋
 
-<!--
-**imanojprajapati/imanojprajapati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi 👋, I'm Manoj Prajapati
+A passionate Frontend Developer and Business Enthusiast
+🔭 I’m currently working on Web Development in React JS | Strapi | NEXTJs | Tailwind | Shopify | Wordpress
 
-Here are some ideas to get you started:
--->
+🌱 I’m currently learning Flutter
 
-Currently I am available for hire
-🧠 learning Flutter and tailwind
-💜 loving React, React-Native, Next.js, styled-components
+📫 How to reach me: mnprajapati007@gmail.com
 
-🏡 website | 🐦 twitter | 📷 instagram | 👔 linkedin
+
