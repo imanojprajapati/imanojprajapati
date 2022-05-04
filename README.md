@@ -1,9 +1,9 @@
 
-Hi 👋, I'm Manoj Prajapati
-A passionate Frontend Developer and Business Enthusiast
+Hi 👋, I'm Manoj Prajapati<br>
+A passionate Frontend Developer and Business Enthusiast <br>
 🔭 I’m currently working on Web Development in React JS | Strapi | NEXTJs | Tailwind | Shopify | Wordpress
-
-🌱 I’m currently learning Flutter
+<br>
+🌱 I’m currently learning Flutter<br>
 
 📫 How to reach me: mnprajapati007@gmail.com
 
